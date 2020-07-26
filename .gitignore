@@ -1,0 +1,15 @@
+project/project
+project/target
+target
+logs
+tmp
+dist
+.history
+/.idea
+/.idea_modules
+/*.iml
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+*.swp
